@@ -1,0 +1,1 @@
+USBWP.cmd OFF 2
